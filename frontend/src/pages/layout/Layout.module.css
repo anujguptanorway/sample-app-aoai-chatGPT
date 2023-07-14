@@ -25,17 +25,17 @@
     font-family: "Segoe UI";
     font-style: normal;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 28px;
     display: flex;
     align-items: flex-end;
     color: #242424;
 }
 
-.headerIcon {
-    height: 32px;
-    width: 32px;
-    margin-left: 36px;
+.additionalImage {
+  height: 50px; 
+  width: 120px; 
+  margin-left:36px; 
 }
 
 .shareButtonContainer {
